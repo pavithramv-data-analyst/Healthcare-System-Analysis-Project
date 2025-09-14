@@ -36,7 +36,7 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
 4. ### 🔹 **Power BI Dashboard**
-5. **https://github.com/pavithramv-data-analyst/Healthcare-System-Analysis-Project/blob/main/Analysis%20of%20HealthCare%20System%20of%20California.pbix**
+5. - **https://github.com/pavithramv-data-analyst/Healthcare-System-Analysis-Project/blob/main/Analysis%20of%20HealthCare%20System%20of%20California.pbix**
 
 6. ##  Recommendations
 - **Expand Preventive Care Programs**: Invest in community clinics to reduce avoidable ER visits and readmissions.
