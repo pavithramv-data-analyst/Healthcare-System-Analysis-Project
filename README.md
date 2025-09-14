@@ -7,7 +7,6 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 ---
 
 ##  Project Overview
-The report focuses on:
 - **Healthcare Infrastructure**: Hospital distribution, bed capacity, and utilization rates.
 - **Patient Outcomes**: Mortality, readmission, and recovery metrics.
 - **Financial Insights**: Cost of care, reimbursement trends, and spending efficiency.
@@ -17,10 +16,10 @@ The report focuses on:
 
 ##  Tools & Technologies
 - **Power BI**: Data modeling, DAX measures, and interactive dashboards.
-- **Tableau **:interactive reports .
+- **Tableau**:interactive reports .
 - **Excel / CSV Sources**: Initial data cleaning and validation.
-- **SQL **: Data extraction and transformation before loading to Power BI.
-- **Python **: Data Cleaning and data Transformation. 
+- **SQL**: Data extraction and transformation before loading to Power BI.
+- **Python**: Data Cleaning and data Transformation. 
 
 ---
 
@@ -28,8 +27,6 @@ The report focuses on:
 - Identified counties with **highest patient readmission rates** and potential causes.
 - Revealed **cost variances** across similar treatment categories.
 - Highlighted facilities with **exceptional outcomes** despite lower funding.
-
-*(Replace or expand these points with your actual findings once you finalize insights.)*
 
 ---
 
