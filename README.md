@@ -35,7 +35,7 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 2. **Transform** – Cleaned and shaped the data: handled missing values, standardized formats.
 3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
-4. ### 🔹 **Power BI Dashboard** 
+4. ### 🔹 **Power BI Dashboard** https://github.com/pavithramv-data-analyst/Healthcare-System-Analysis-Project/blob/main/Analysis%20of%20HealthCare%20System%20of%20California.pbix
 
 5. ##  Recommendations
 - **Expand Preventive Care Programs**: Invest in community clinics to reduce avoidable ER visits and readmissions.
@@ -53,9 +53,4 @@ By applying the above recommendations—especially in preventative care, staffin
 - Reduce **avoidable expenditures**, and
 - Ensure **equitable access** to quality healthcare across all counties.
 
----
 
-##  How to View the Report
-1. **Clone or Download this Repository**  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
