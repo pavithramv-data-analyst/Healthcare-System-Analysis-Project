@@ -23,13 +23,6 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 
 ---
 
-##  Key Highlights
-- Identified counties with **highest patient readmission rates** and potential causes.
-- Revealed **cost variances** across similar treatment categories.
-- Highlighted facilities with **exceptional outcomes** despite lower funding.
-
----
-
 ##  ETL & Data Preparation
 1. **Extract** – Gathered healthcare datasets (hospital stats, cost data, patient outcomes).
 2. **Transform** – Cleaned and shaped the data: handled missing values, standardized formats.
@@ -37,6 +30,14 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 
 4. ### 🔹 **Power BI Dashboard**
 5. - **https://github.com/pavithramv-data-analyst/Healthcare-System-Analysis-Project/blob/main/Analysis%20of%20HealthCare%20System%20of%20California.pbix**
+  
+   - 
+##  Key Highlights
+- Identified counties with **highest patient readmission rates** and potential causes.
+- Revealed **cost variances** across similar treatment categories.
+- Highlighted facilities with **exceptional outcomes** despite lower funding.
+
+---
 
 6. ##  Recommendations
 - **Expand Preventive Care Programs**: Invest in community clinics to reduce avoidable ER visits and readmissions.
