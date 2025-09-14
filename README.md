@@ -35,7 +35,9 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 2. **Transform** – Cleaned and shaped the data: handled missing values, standardized formats.
 3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
-4. ##  Recommendations
+4. ### 🔹 **Power BI Dashboard** 
+
+5. ##  Recommendations
 - **Expand Preventive Care Programs**: Invest in community clinics to reduce avoidable ER visits and readmissions.
 - **Optimize Resource Allocation**: Redirect funding to counties with bed shortages and high patient-to-staff ratios.
 - **Benchmark Best Practices**: Encourage underperforming hospitals to adopt processes from high-outcome facilities.
