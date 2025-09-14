@@ -6,7 +6,7 @@ It is designed to help policy makers, administrators, and analysts identify gaps
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 The report focuses on:
 - **Healthcare Infrastructure**: Hospital distribution, bed capacity, and utilization rates.
 - **Patient Outcomes**: Mortality, readmission, and recovery metrics.
@@ -15,14 +15,16 @@ The report focuses on:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI**: Data modeling, DAX measures, and interactive dashboards.
+- **Tableau **:interactive reports .
 - **Excel / CSV Sources**: Initial data cleaning and validation.
-- **SQL (if applicable)**: Data extraction and transformation before loading to Power BI.
+- **SQL **: Data extraction and transformation before loading to Power BI.
+- **Python **: Data Cleaning and data Transformation. 
 
 ---
 
-## 🔑 Key Highlights
+##  Key Highlights
 - Identified counties with **highest patient readmission rates** and potential causes.
 - Revealed **cost variances** across similar treatment categories.
 - Highlighted facilities with **exceptional outcomes** despite lower funding.
@@ -31,14 +33,30 @@ The report focuses on:
 
 ---
 
-## 🧩 ETL & Data Preparation
+##  ETL & Data Preparation
 1. **Extract** – Gathered healthcare datasets (hospital stats, cost data, patient outcomes).
 2. **Transform** – Cleaned and shaped the data: handled missing values, standardized formats.
 3. **Load** – Built Power BI data model, created relationships, and implemented DAX calculations.
 
+4. ##  Recommendations
+- **Expand Preventive Care Programs**: Invest in community clinics to reduce avoidable ER visits and readmissions.
+- **Optimize Resource Allocation**: Redirect funding to counties with bed shortages and high patient-to-staff ratios.
+- **Benchmark Best Practices**: Encourage underperforming hospitals to adopt processes from high-outcome facilities.
+- **Control Costs**: Negotiate procurement and insurance contracts in regions with above-average treatment expenses.
+- **Real-Time Monitoring**: Integrate live data feeds to track bed occupancy and patient outcomes continuously.
+
 ---
 
-## 🚀 How to View the Report
+##  Conclusion
+The analysis reveals both strengths and gaps in California’s healthcare system.  
+By applying the above recommendations—especially in preventative care, staffing optimization, and cost control—state and local agencies can:
+- Improve **patient outcomes** and satisfaction,
+- Reduce **avoidable expenditures**, and
+- Ensure **equitable access** to quality healthcare across all counties.
+
+---
+
+##  How to View the Report
 1. **Clone or Download this Repository**  
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
