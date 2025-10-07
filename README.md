@@ -1,4 +1,4 @@
-# Healthcare-System-Analysis-Project
+# Healthcare-System-Analytics-Project
 # 🏥 Analysis of HealthCare System of California
 
 This project provides an interactive analysis of California’s healthcare system, exploring hospital performance, patient outcomes, and cost trends.  
